@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Phạm Đông Anh</h1>
 
-<!--
-**PDA-cyber/PDA-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Science Student • Year 2 • Aspiring AI Engineer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about Machine Learning, Data Science and Software Engineering.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+🎓 Second-year Computer Science Student
+
+🤖 Interested in
+• Artificial Intelligence
+• Machine Learning
+• Deep Learning
+• Computer Vision
+
+📚 Currently Learning
+• Python
+• Data Structures & Algorithms
+• Statistics
+• Linear Algebra
+• SQL
+
+🚀 Goal
+Become an AI Engineer.
