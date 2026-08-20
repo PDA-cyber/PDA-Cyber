@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phạm Đông Anh</h1>
 
 <p align="center">
-Computer Science Student • Year 2 • Aspiring AI Engineer
+Computer Science Student • Year 3 • Aspiring AI Engineer
 </p>
 
 <p align="center">
